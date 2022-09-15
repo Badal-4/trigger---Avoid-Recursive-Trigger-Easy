@@ -1,0 +1,3 @@
+public Class checkRecursive{
+     public static Set<Id> SetOfIDs = new Set<Id>();
+}
